@@ -1,2 +1,2 @@
 # Python-Calculator-Project
-Designed calculator using tkinter Python
+Coded calculator using tkinter Python
